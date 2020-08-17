@@ -14,3 +14,7 @@ Link  : https://ieeexplore.ieee.org/document/7550093
 年分  : 2019  
 作者  : Y. Li, G. Shi  
 Link  : https://ieeexplore.ieee.org/document/8989155  
+
+## reference
+FMT引用Smorodov的方法進行實現:  
+LINK: https://github.com/Smorodov/LogPolarFFTTemplateMatcher  
